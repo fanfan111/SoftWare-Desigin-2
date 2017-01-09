@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<div pos="0,75,-0,-0" >
+  <img pos="20,60" width="366" height="200" image="skins\项目介绍大图.png"
+				mode="extrude" framesize="1" tip="DuiVision LOGO" />
+  <text pos="400,50,600,80" crtext="000000" crmark="904000" font="bigbig" title="键盘安全套件" mask="DUI" />
+
+  <text crtext="808080" img-scroll="skin:IDB_SCROLL_V" pos="400,90,-30,-0" bk-transparent="5"
+    title="本设计是独立开发一套键盘安全系统。系统通过“R3全局消息钩子”、“R3系统API的Hook”、“R0键盘类驱动过滤驱动”、 “VT硬件虚拟化”等技术尽可能底层的获取键盘记录，来抵抗Windows系统下各种对键盘的攻击。系统还可以对用户指定的进程进行键盘保护，为软件开发者提供MFC的键盘保护的SDK。
+	
+			本设计是一套完整的键盘安全套件，让对键盘安全需求比较高的用户通过使用本软件，达到保护输入信息安全、降低被攻击危险的效果。对于软件开发者，可以使用套件附带提供的键盘保护SDK，配合运行在宿主机上的套件，让开发的应用得到更深层次的键盘保护。" />
+
+</div>

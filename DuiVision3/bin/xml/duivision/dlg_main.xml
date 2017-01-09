@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dlg name="dlg_main" title="[APP_NAME]" width="800" height="550" translucent="255"
+	frame="skin:IDB_MAIN_FRAME" bkimg="" crbk="000000" appwin="1" resize="1"
+	width-lt="3" height-lt="119" width-rb="3" height-rb="30" >
+
+  <base>
+	<imgbtn name="button.close" pos="-45,0,-0,29" skin="IDB_BT_CLOSE" tip="关闭" action="hide-window" show="1"/>
+	<imgbtn name="button.min" pos="-76,0,-46,29" skin="IDB_BT_MIN" tip="最小化" />
+	<imgbtn name="button.menu" pos="-110,0,-77,29" skin="IDB_BT_MENU" tip="菜单" action="menu:menu_main" menupos="-75,-0" />
+	<imgbtn name="button.skin" pos="-140,0,-111,29" skin="IDB_BT_SKIN" tip="皮肤" show="1"/>
+	<text name="title" crtext="FFFFFF" crmark="800000" crshadow="808080" font="big"
+			pos="10,4,250,25" title="[APP_NAME]" response="0" show="1" />
+	<!--text name="user.current" crtext="FFFFFF" crmark="800000" align="right"
+			pos="-250,4,-185,25" title="test" tip="登录用户：test" show="1" /-->
+	<textbtn name="textbtn" skin="" crtext="FFFFFF"
+			pos="-180,4,-141,25" show="1" title="[LOGIN]" action="dlg:dlg_login" />
+  </base>
+  
+  <body>
+
+	<tabctrl name="tabctrl.main" image="skins\tab_image.png" img-count="3"
+			img-sep="" img-hover="skin:IDB_TAB_HOVER"
+			font="bold" item-width="0" tab-height="0" animate="1"
+			pos="1,44,-1,-31">
+		<tab name="tab.Home" title="项目介绍" image="skins\icon\arp_install.png" img-count="1"
+			div="tab_Home" active="true" >
+		</tab>
+		<tab name="tab.Control" title="键盘展示" image="skins\icon\键盘展示.png" img-count="1"
+			div="tab_Control" >
+		</tab>
+		<!--tab name="tab.Controlr0" title="r0" image="skins\icon\r0.png" img-count="1"
+			div="tab_Controlr0" >
+		</tab>
+		<tab name="tab.Controlr3" title="r3" image="skins\icon\r3.png" img-count="1"
+			div="tab_Controlr3" >
+		</tab-->
+		<tab name="tab.Select" title="保护进程" image="skins\icon\weTool.png" img-count="1"
+			div="tab_Select" >
+		</tab>
+	</tabctrl>
+	
+	<div name="footer" pos="0,-26,-0,-0" >	
+		<hidebtn name="checkversion" pos="10,2,150,-0" show="1" text="版本：1.0.0.1"   />
+		<button name="button.systemStart" pos="-110,0" width="100" height="22" skin="IDB_BT_ICON"   title="未开启VT防护"/>
+	</div>	
+	
+  </body>
+  
+</dlg>

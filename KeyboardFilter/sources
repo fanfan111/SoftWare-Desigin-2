@@ -1,0 +1,7 @@
+TARGETNAME=KeyboardFilter
+TARGETTYPE=DRIVER
+TARGETPATH=obj
+
+INCLUDES=.\
+
+SOURCES = KeyboardFilter.c

@@ -1,0 +1,9 @@
+TARGETNAME=KeyboardVT
+TARGETTYPE=DRIVER
+TARGETPATH=obj
+
+AMD64_SOURCES = amd64\vtasm.asm
+
+INCLUDES=.\
+
+SOURCES = common.cpp KeyboardVT.cpp stdafx.cpp vtsystem.cpp

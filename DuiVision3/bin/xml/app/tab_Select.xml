@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<div pos="0,75,-0,-0" >
+	
+				
+	
+	<img pos="80,40,700,-0" image="skins\default\msgdlg_bk.png" mode="mid" width-lt="10" height-lt="60" width-rb="10" height-rb="5" />
+	<!--img pos="545,48,680,83" image="skins\default\进程保护.png" mode="mid" width-lt="10" height-lt="60" width-rb="10" height-rb="5" /-->
+	
+	<text crtext="800000" font="big" pos="90,48,300,178" title="保护进程信息" />
+	<button name="button.newInformation" pos="570,45" width="100" height="25" skin="IDB_BT_DEFAULT"   title="查看实时信息" disable="1"/>
+	<gridctrl name="gridctrl_help"  pos="90,85,695,-3" show="1"
+		img-scroll="skin:IDB_SCROLL_V" img-scrollh="skin:IDB_SCROLL_H" img-sep="skin:IDB_LINE_RP"
+		img-check="skin:IDB_CHECK_BOX" img-colsep="" 
+		img-count="12" image="skin:IDB_LIST_IMG"
+		left-pos="30" row-height="25" header-height="0" bk-transparent="10"
+		font-title=" " font="default"
+		valign="middle" down-row="0"
+		crtext="255,64,64,64" crhover="128,0,0" crpush="0,112,235"
+		crtitle="32,32,32" crsep="200,160,160,160" crrowhover="50,128,128,128" >
+		
+		<column title="列1" width="200" />
+		<column title="列2" width="100" />
+		<column title="列3" width="100" />
+		<column title="列4" width="100" />
+		<column title="列5" width="100" />
+		<row>
+			<item title="进程名称" />
+			<item title="进程PID" />
+			<item title="线程PID" />
+			<item title="位数" />
+			<item title="描述" />
+		</row>
+		
+	</gridctrl>
+	<gridctrl name="gridctrl_2"  pos="90,110,695,-3" show="1"
+		img-scroll="skin:IDB_SCROLL_V" img-scrollh="skin:IDB_SCROLL_H" img-sep="skin:IDB_LINE_RP"
+		img-check="skin:IDB_CHECK_BOX" img-colsep="" 
+		img-count="12" image="skin:IDB_LIST_IMG"
+		left-pos="30" row-height="25" header-height="0" bk-transparent="10"
+		font-title=" " font="default"
+		valign="middle" down-row="0"
+		crtext="255,64,64,64" crhover="128,0,0" crpush="0,112,235"
+		crtitle="32,32,32" crsep="200,160,160,160" crrowhover="50,128,128,128" >
+		<column title="列1" width="200" />
+		<column title="列2" width="100" />
+		<column title="列3" width="100" />
+		<column title="列4" width="100" />
+		<column title="列5" width="100" />
+	</gridctrl>
+	
+</div>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<div pos="0,75,-0,-0" >
+
+
+	<tabctrl name="tabctrl.controls" img-sep="skin:IDB_TAB_SEPERATOR" img-hover="skin:IDB_TAB_BACK-"
+			img-tabbtn-="skins\default\btn_close.png" tabbtnpos="-21,3"
+			font="bold" item-width="267" tab-height="29"
+			crtext="800000" crhover="800000" crpush="800000" animate="1"
+			pos="1,1,-1,-1">
+			
+			<tab name="tab.Controlvt" image="skin:IDB_TAB_ITEM" active="true" title="VT"  pos="0,30,-0,-0" div="tab_Controlvt" >
+			</tab>
+			<tab name="tab.Controlr0" image="skin:IDB_TAB_ITEM" title="R0"  pos="0,30,-0,-0" div="tab_Controlr0" >
+			</tab>
+			<tab name="tab.Controlr3" image="skin:IDB_TAB_ITEM" title="R3" pos="0,30,-0,-0"	div="tab_Controlr3" >
+			</tab>	
+	</tabctrl>
+</div>

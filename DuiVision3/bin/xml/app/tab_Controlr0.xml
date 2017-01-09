@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<div pos="0,5,-0,-0" >
+
+
+
+	<!--Ö÷¼üÅÌ±³¾°Í¼Æ¬-->
+	<img pos="40,30,640,275" image="skins\image\2.png" mode="mid" width-lt="10" height-lt="60" width-rb="10" height-rb="5" />
+	
+	<!--¹¦ÄÜÇø±³¾°Í¼Æ¬-->
+	<img pos="648,30,768,275" image="skins\image\2.png" mode="mid" width-lt="10" height-lt="60" width-rb="10" height-rb="5" />
+	
+	<!--Ð¡¼üÅÌ±³¾°Í¼Æ¬-->
+	<img pos="68,285,748,325" image="skins\image\2.png" mode="mid" width-lt="10" height-lt="60" width-rb="10" height-rb="5" />
+	
+	<!-----------------------³õÊ¼ÏÔÊ¾×´Ì¬----------------------------->
+	<!--µÚÒ»ÅÅ°´¼ü-->
+	<button name="keyboard.esc.r0" pos="50,35" width="35" height="35" img-btn="skins\my-f\esc.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f1.r0" pos="96,35" width="35" height="35" img-btn="skins\my-f\f1.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f2.r0" pos="142,35" width="35" height="35" img-btn="skins\my-f\f2.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f3.r0" pos="188,35" width="35" height="35" img-btn="skins\my-f\f3.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f4.r0" pos="234,35" width="35" height="35" img-btn="skins\my-f\f4.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f5.r0" pos="280,35" width="35" height="35" img-btn="skins\my-f\f5.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f6.r0" pos="326,35" width="35" height="35" img-btn="skins\my-f\f6.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f7.r0" pos="372,35" width="35" height="35" img-btn="skins\my-f\f7.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f8.r0" pos="418,35" width="35" height="35" img-btn="skins\my-f\f8.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f9.r0" pos="464,35" width="35" height="35" img-btn="skins\my-f\f9.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f10.r0" pos="510,35" width="35" height="35" img-btn="skins\my-f\f10.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f11.r0" pos="556,35" width="35" height="35" img-btn="skins\my-f\f11.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f12.r0" pos="602,35" width="35" height="35" img-btn="skins\my-f\f12.png" cursor="hand" animate="0"/>
+	
+	<!--µÚ¶þÅÅ°´¼ü-->
+	<button name="keyboard.`.r0" pos="50,75" width="35" height="35" img-btn="skins\my-f\`.png" cursor="hand" animate="0"/>
+	<button name="keyboard.1.r0" pos="90,75" width="35" height="35" img-btn="skins\my-f\1.png" cursor="hand" animate="0"/>
+	<button name="keyboard.2.r0" pos="130,75" width="35" height="35" img-btn="skins\my-f\2.png" cursor="hand" animate="0"/>
+	<button name="keyboard.3.r0" pos="170,75" width="35" height="35" img-btn="skins\my-f\3.png" cursor="hand" animate="0"/>
+	<button name="keyboard.4.r0" pos="210,75" width="35" height="35" img-btn="skins\my-f\4.png" cursor="hand" animate="0"/>
+	<button name="keyboard.5.r0" pos="250,75" width="35" height="35" img-btn="skins\my-f\5.png" cursor="hand" animate="0"/>
+	<button name="keyboard.6.r0" pos="290,75" width="35" height="35" img-btn="skins\my-f\6.png" cursor="hand" animate="0"/>
+	<button name="keyboard.7.r0" pos="330,75" width="35" height="35" img-btn="skins\my-f\7.png" cursor="hand" animate="0"/>
+	<button name="keyboard.8.r0" pos="370,75" width="35" height="35" img-btn="skins\my-f\8.png" cursor="hand" animate="0"/>
+	<button name="keyboard.9.r0" pos="410,75" width="35" height="35" img-btn="skins\my-f\9.png" cursor="hand" animate="0"/>
+	<button name="keyboard.0.r0" pos="450,75" width="35" height="35" img-btn="skins\my-f\0.png" cursor="hand" animate="0"/>
+	<button name="keyboard.-.r0" pos="490,75" width="35" height="35" img-btn="skins\my-f\-.png" cursor="hand" animate="0"/>
+	<button name="keyboard.=.r0" pos="530,75" width="35" height="35" img-btn="skins\my-f\=.png" cursor="hand" animate="0"/>
+	<button name="keyboard.backspace.r0" pos="570,75" width="70" height="35" img-btn="skins\my-f\backspace.png" cursor="hand" animate="0"/>
+	
+	<!--µÚÈýÅÅ°´¼ü-->
+	<button name="keyboard.tab.r0" pos="50,115" width="52" height="35" img-btn="skins\my-f\tab.png" cursor="hand" animate="0"/>
+	<button name="keyboard.q.r0" pos="107,115" width="35" height="35" img-btn="skins\my-f\q.png" cursor="hand" animate="0"/>
+	<button name="keyboard.w.r0" pos="147,115" width="35" height="35" img-btn="skins\my-f\w.png" cursor="hand" animate="0"/>
+	<button name="keyboard.e.r0" pos="187,115" width="35" height="35" img-btn="skins\my-f\e.png" cursor="hand" animate="0"/>
+	<button name="keyboard.r.r0" pos="227,115" width="35" height="35" img-btn="skins\my-f\r.png" cursor="hand" animate="0"/>
+	<button name="keyboard.t.r0" pos="267,115" width="35" height="35" img-btn="skins\my-f\t.png" cursor="hand" animate="0"/>
+	<button name="keyboard.y.r0" pos="307,115" width="35" height="35" img-btn="skins\my-f\y.png" cursor="hand" animate="0"/>
+	<button name="keyboard.u.r0" pos="347,115" width="35" height="35" img-btn="skins\my-f\u.png" cursor="hand" animate="0"/>
+	<button name="keyboard.i.r0" pos="387,115" width="35" height="35" img-btn="skins\my-f\i.png" cursor="hand" animate="0"/>
+	<button name="keyboard.o.r0" pos="427,115" width="35" height="35" img-btn="skins\my-f\o.png" cursor="hand" animate="0"/>
+	<button name="keyboard.p.r0" pos="467,115" width="35" height="35" img-btn="skins\my-f\p.png" cursor="hand" animate="0"/>
+	<button name="keyboard.[.r0" pos="507,115" width="35" height="35" img-btn="skins\my-f\[.png" cursor="hand" animate="0"/>
+	<button name="keyboard.].r0" pos="547,115" width="35" height="35" img-btn="skins\my-f\].png" cursor="hand" animate="0"/>
+	<button name="keyboard.fxg.r0" pos="587,115" width="52" height="35" img-btn="skins\my-f\fxg.png" cursor="hand" animate="0"/>
+	
+	<!--µÚËÄÅÅ°´¼ü-->
+	<button name="keyboard.lock.r0" pos="50,155" width="70" height="35" img-btn="skins\my-f\lock.png" cursor="hand" animate="0"/>
+	<button name="keyboard.a.r0" pos="125,155" width="35" height="35" img-btn="skins\my-f\a.png" cursor="hand" animate="0"/>
+	<button name="keyboard.s.r0" pos="165,155" width="35" height="35" img-btn="skins\my-f\s.png" cursor="hand" animate="0"/>
+	<button name="keyboard.d.r0" pos="205,155" width="35" height="35" img-btn="skins\my-f\d.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f.r0" pos="245,155" width="35" height="35" img-btn="skins\my-f\f.png" cursor="hand" animate="0"/>
+	<button name="keyboard.g.r0" pos="285,155" width="35" height="35" img-btn="skins\my-f\g.png" cursor="hand" animate="0"/>
+	<button name="keyboard.h.r0" pos="325,155" width="35" height="35" img-btn="skins\my-f\h.png" cursor="hand" animate="0"/>
+	<button name="keyboard.j.r0" pos="365,155" width="35" height="35" img-btn="skins\my-f\j.png" cursor="hand" animate="0"/>
+	<button name="keyboard.k.r0" pos="405,155" width="35" height="35" img-btn="skins\my-f\k.png" cursor="hand" animate="0"/>
+	<button name="keyboard.l.r0" pos="445,155" width="35" height="35" img-btn="skins\my-f\l.png" cursor="hand" animate="0"/>
+	<button name="keyboard.;.r0" pos="485,155" width="35" height="35" img-btn="skins\my-f\;.png" cursor="hand" animate="0"/>
+	<button name="keyboard.'.r0" pos="525,155" width="35" height="35" img-btn="skins\my-f\'.png" cursor="hand" animate="0"/>
+	<button name="keyboard.enter.r0" pos="565,155" width="70" height="35" img-btn="skins\my-f\enter.png" cursor="hand" animate="0"/>
+	
+	<!--µÚÎåÅÅ°´¼ü-->
+	<button name="keyboard.lshift.r0" pos="50,195" width="88" height="35" img-btn="skins\my-f\shiftzuo.png" cursor="hand" animate="0"/>
+	<button name="keyboard.z.r0" pos="143,195" width="35" height="35" img-btn="skins\my-f\z.png" cursor="hand" animate="0"/>
+	<button name="keyboard.x.r0" pos="183,195" width="35" height="35" img-btn="skins\my-f\x.png" cursor="hand" animate="0"/>
+	<button name="keyboard.c.r0" pos="223,195" width="35" height="35" img-btn="skins\my-f\c.png" cursor="hand" animate="0"/>
+	<button name="keyboard.v.r0" pos="263,195" width="35" height="35" img-btn="skins\my-f\v.png" cursor="hand" animate="0"/>
+	<button name="keyboard.b.r0" pos="303,195" width="35" height="35" img-btn="skins\my-f\b.png" cursor="hand" animate="0"/>
+	<button name="keyboard.n.r0" pos="343,195" width="35" height="35" img-btn="skins\my-f\n.png" cursor="hand" animate="0"/>
+	<button name="keyboard.m.r0" pos="383,195" width="35" height="35" img-btn="skins\my-f\m.png" cursor="hand" animate="0"/>
+	<button name="keyboard.,.r0" pos="423,195" width="35" height="35" img-btn="skins\my-f\,.png" cursor="hand" animate="0"/>
+	<button name="keyboard...r0" pos="463,195" width="35" height="35" img-btn="skins\my-f\..png" cursor="hand" animate="0"/>
+	<button name="keyboard.xg.r0" pos="503,195" width="35" height="35" img-btn="skins\my-f\xg.png" cursor="hand" animate="0"/>
+	<button name="keyboard.rshift.r0" pos="543,195" width="88" height="35" img-btn="skins\my-f\shiftyou.png" cursor="hand" animate="0"/>
+	
+	<!--µÚÁùÅÅ°´¼ü-->
+	<button name="keyboard.lctrl.r0" pos="50,235" width="52" height="35" img-btn="skins\my-f\ctrl.png" cursor="hand" animate="0"/>
+	<button name="keyboard.lwin.r0" pos="107,235" width="35" height="35" img-btn="skins\my-f\win.png" cursor="hand" animate="0"/>
+	<button name="keyboard.lalt.r0" pos="147,235" width="52" height="35" img-btn="skins\my-f\alt.png" cursor="hand" animate="0"/>
+	<button name="keyboard.space.r0" pos="204,235" width="227" height="35" img-btn="skins\my-f\space.png" cursor="hand" animate="0"/>
+	<button name="keyboard.ralt.r0" pos="436,235" width="52" height="35" img-btn="skins\my-f\alt.png" cursor="hand" animate="0"/>
+	<button name="keyboard.rwin.r0" pos="493,235" width="35" height="35" img-btn="skins\my-f\win.png" cursor="hand" animate="0"/>
+	<button name="keyboard.app.r0" pos="533,235" width="35" height="35" img-btn="skins\my-f\app.png" cursor="hand" animate="0"/>
+	<button name="keyboard.rctrl.r0" pos="573,235" width="52" height="35" img-btn="skins\my-f\ctrl.png" cursor="hand" animate="0"/>
+	
+	<!--¹¦ÄÜ¼üÅÌÇø-->
+	<button name="keyboard.prtsc.r0" pos="650,35" width="35" height="35" img-btn="skins\my-f\prtsc.png" cursor="hand" animate="0"/>
+	<button name="keyboard.scrlock.r0" pos="690,35" width="35" height="35" img-btn="skins\my-f\scrlock.png" cursor="hand" animate="0"/>
+	<button name="keyboard.pause.r0" pos="730,35" width="35" height="35" img-btn="skins\my-f\pause.png" cursor="hand" animate="0"/>
+	<button name="keyboard.insert.r0" pos="650,75" width="35" height="35" img-btn="skins\my-f\insert.png" cursor="hand" animate="0"/>
+	<button name="keyboard.home.r0" pos="690,75" width="35" height="35" img-btn="skins\my-f\home.png" cursor="hand" animate="0"/>
+	<button name="keyboard.pgup.r0" pos="730,75" width="35" height="35" img-btn="skins\my-f\pgup.png" cursor="hand" animate="0"/>
+	<button name="keyboard.delete.r0" pos="650,115" width="35" height="35" img-btn="skins\my-f\delete.png" cursor="hand" animate="0"/>
+	<button name="keyboard.end.r0" pos="690,115" width="35" height="35" img-btn="skins\my-f\end.png" cursor="hand" animate="0"/>
+	<button name="keyboard.pgdn.r0" pos="730,115" width="35" height="35" img-btn="skins\my-f\pgdn.png" cursor="hand" animate="0"/>
+
+	<!--·½Ïò¼üÇø-->
+	<button name="keyboard.shang.r0" pos="690,195" width="35" height="35" img-btn="skins\my-f\shang.png" cursor="hand" animate="0"/>
+	<button name="keyboard.zuo.r0" pos="650,235" width="35" height="35" img-btn="skins\my-f\zuo.png" cursor="hand" animate="0"/>
+	<button name="keyboard.xia.r0" pos="690,235" width="35" height="35" img-btn="skins\my-f\xia.png" cursor="hand" animate="0"/>
+	<button name="keyboard.you.r0" pos="730,235" width="35" height="35" img-btn="skins\my-f\you.png" cursor="hand" animate="0"/>
+	
+	<!--Ð¡¼üÅÌÇø-->
+	<button name="keyboard.numberlock.r0" pos="70,287" width="35" height="35" img-btn="skins\my-f\numberlock.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp +.r0" pos="110,287" width="35" height="35" img-btn="skins\my-f\kp +.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp -.r0" pos="150,287" width="35" height="35" img-btn="skins\my-f\kp -.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp cheng.r0" pos="190,287" width="35" height="35" img-btn="skins\my-f\kp cheng.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp xg.r0" pos="230,287" width="35" height="35" img-btn="skins\my-f\kp xg.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp ..r0" pos="270,287" width="35" height="35" img-btn="skins\my-f\kp ..png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp enter.r0" pos="310,287" width="35" height="35" img-btn="skins\my-f\kp enter.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 0.r0" pos="350,287" width="35" height="35" img-btn="skins\my-f\kp 0.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 1.r0" pos="390,287" width="35" height="35" img-btn="skins\my-f\kp 1.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 2.r0" pos="430,287" width="35" height="35" img-btn="skins\my-f\kp 2.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 3.r0" pos="470,287" width="35" height="35" img-btn="skins\my-f\kp 3.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 4.r0" pos="510,287" width="35" height="35" img-btn="skins\my-f\kp 4.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 5.r0" pos="550,287" width="35" height="35" img-btn="skins\my-f\kp 5.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 6.r0" pos="590,287" width="35" height="35" img-btn="skins\my-f\kp 6.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 7.r0" pos="630,287" width="35" height="35" img-btn="skins\my-f\kp 7.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 8.r0" pos="670,287" width="35" height="35" img-btn="skins\my-f\kp 8.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 9.r0" pos="710,287" width="35" height="35" img-btn="skins\my-f\kp 9.png" cursor="hand" animate="0"/>
+	
+	<!----------------¸ßÁÁÏÔÊ¾Ì¬------------------------>
+
+	<!--µÚÒ»ÅÅ°´¼ü-->
+	<button name="keyboard.esc_T.r0" pos="50,35" width="35" height="35" img-btn="skins\my-t\esc.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f1_T.r0" pos="96,35" width="35" height="35" img-btn="skins\my-t\f1.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f2_T.r0" pos="142,35" width="35" height="35" img-btn="skins\my-t\f2.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f3_T.r0" pos="188,35" width="35" height="35" img-btn="skins\my-t\f3.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f4_T.r0" pos="234,35" width="35" height="35" img-btn="skins\my-t\f4.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f5_T.r0" pos="280,35" width="35" height="35" img-btn="skins\my-t\f5.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f6_T.r0" pos="326,35" width="35" height="35" img-btn="skins\my-t\f6.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f7_T.r0" pos="372,35" width="35" height="35" img-btn="skins\my-t\f7.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f8_T.r0" pos="418,35" width="35" height="35" img-btn="skins\my-t\f8.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f9_T.r0" pos="464,35" width="35" height="35" img-btn="skins\my-t\f9.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f10_T.r0" pos="510,35" width="35" height="35" img-btn="skins\my-t\f10.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f11_T.r0" pos="556,35" width="35" height="35" img-btn="skins\my-t\f11.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f12_T.r0" pos="602,35" width="35" height="35" img-btn="skins\my-t\f12.png" cursor="hand" animate="0"/>
+	
+	<!--µÚ¶þÅÅ°´¼ü-->
+	<button name="keyboard.`_T.r0" pos="50,75" width="35" height="35" img-btn="skins\my-t\`.png" cursor="hand" animate="0"/>
+	<button name="keyboard.1_T.r0" pos="90,75" width="35" height="35" img-btn="skins\my-t\1.png" cursor="hand" animate="0"/>
+	<button name="keyboard.2_T.r0" pos="130,75" width="35" height="35" img-btn="skins\my-t\2.png" cursor="hand" animate="0"/>
+	<button name="keyboard.3_T.r0" pos="170,75" width="35" height="35" img-btn="skins\my-t\3.png" cursor="hand" animate="0"/>
+	<button name="keyboard.4_T.r0" pos="210,75" width="35" height="35" img-btn="skins\my-t\4.png" cursor="hand" animate="0"/>
+	<button name="keyboard.5_T.r0" pos="250,75" width="35" height="35" img-btn="skins\my-t\5.png" cursor="hand" animate="0"/>
+	<button name="keyboard.6_T.r0" pos="290,75" width="35" height="35" img-btn="skins\my-t\6.png" cursor="hand" animate="0"/>
+	<button name="keyboard.7_T.r0" pos="330,75" width="35" height="35" img-btn="skins\my-t\7.png" cursor="hand" animate="0"/>
+	<button name="keyboard.8_T.r0" pos="370,75" width="35" height="35" img-btn="skins\my-t\8.png" cursor="hand" animate="0"/>
+	<button name="keyboard.9_T.r0" pos="410,75" width="35" height="35" img-btn="skins\my-t\9.png" cursor="hand" animate="0"/>
+	<button name="keyboard.0_T.r0" pos="450,75" width="35" height="35" img-btn="skins\my-t\0.png" cursor="hand" animate="0"/>
+	<button name="keyboard.-_T.r0" pos="490,75" width="35" height="35" img-btn="skins\my-t\-.png" cursor="hand" animate="0"/>
+	<button name="keyboard.=_T.r0" pos="530,75" width="35" height="35" img-btn="skins\my-t\=.png" cursor="hand" animate="0"/>
+	<button name="keyboard.backspace_T.r0" pos="570,75" width="70" height="35" img-btn="skins\my-t\backspace.png" cursor="hand" animate="0"/>
+	
+	<!--µÚÈýÅÅ°´¼ü-->
+	<button name="keyboard.tab_T.r0" pos="50,115" width="52" height="35" img-btn="skins\my-t\tab.png" cursor="hand" animate="0"/>
+	<button name="keyboard.q_T.r0" pos="107,115" width="35" height="35" img-btn="skins\my-t\q.png" cursor="hand" animate="0"/>
+	<button name="keyboard.w_T.r0" pos="147,115" width="35" height="35" img-btn="skins\my-t\w.png" cursor="hand" animate="0"/>
+	<button name="keyboard.e_T.r0" pos="187,115" width="35" height="35" img-btn="skins\my-t\e.png" cursor="hand" animate="0"/>
+	<button name="keyboard.r_T.r0" pos="227,115" width="35" height="35" img-btn="skins\my-t\r.png" cursor="hand" animate="0"/>
+	<button name="keyboard.t_T.r0" pos="267,115" width="35" height="35" img-btn="skins\my-t\t.png" cursor="hand" animate="0"/>
+	<button name="keyboard.y_T.r0" pos="307,115" width="35" height="35" img-btn="skins\my-t\y.png" cursor="hand" animate="0"/>
+	<button name="keyboard.u_T.r0" pos="347,115" width="35" height="35" img-btn="skins\my-t\u.png" cursor="hand" animate="0"/>
+	<button name="keyboard.i_T.r0" pos="387,115" width="35" height="35" img-btn="skins\my-t\i.png" cursor="hand" animate="0"/>
+	<button name="keyboard.o_T.r0" pos="427,115" width="35" height="35" img-btn="skins\my-t\o.png" cursor="hand" animate="0"/>
+	<button name="keyboard.p_T.r0" pos="467,115" width="35" height="35" img-btn="skins\my-t\p.png" cursor="hand" animate="0"/>
+	<button name="keyboard.[_T.r0" pos="507,115" width="35" height="35" img-btn="skins\my-t\[.png" cursor="hand" animate="0"/>
+	<button name="keyboard.]_T.r0" pos="547,115" width="35" height="35" img-btn="skins\my-t\].png" cursor="hand" animate="0"/>
+	<button name="keyboard.fxg_T.r0" pos="587,115" width="52" height="35" img-btn="skins\my-t\fxg.png" cursor="hand" animate="0"/>
+	
+	<!--µÚËÄÅÅ°´¼ü-->
+	<button name="keyboard.lock_T.r0" pos="50,155" width="70" height="35" img-btn="skins\my-t\lock.png" cursor="hand" animate="0"/>
+	<button name="keyboard.a_T.r0" pos="125,155" width="35" height="35" img-btn="skins\my-t\a.png" cursor="hand" animate="0"/>
+	<button name="keyboard.s_T.r0" pos="165,155" width="35" height="35" img-btn="skins\my-t\s.png" cursor="hand" animate="0"/>
+	<button name="keyboard.d_T.r0" pos="205,155" width="35" height="35" img-btn="skins\my-t\d.png" cursor="hand" animate="0"/>
+	<button name="keyboard.f_T.r0" pos="245,155" width="35" height="35" img-btn="skins\my-t\f.png" cursor="hand" animate="0"/>
+	<button name="keyboard.g_T.r0" pos="285,155" width="35" height="35" img-btn="skins\my-t\g.png" cursor="hand" animate="0"/>
+	<button name="keyboard.h_T.r0" pos="325,155" width="35" height="35" img-btn="skins\my-t\h.png" cursor="hand" animate="0"/>
+	<button name="keyboard.j_T.r0" pos="365,155" width="35" height="35" img-btn="skins\my-t\j.png" cursor="hand" animate="0"/>
+	<button name="keyboard.k_T.r0" pos="405,155" width="35" height="35" img-btn="skins\my-t\k.png" cursor="hand" animate="0"/>
+	<button name="keyboard.l_T.r0" pos="445,155" width="35" height="35" img-btn="skins\my-t\l.png" cursor="hand" animate="0"/>
+	<button name="keyboard.;_T.r0" pos="485,155" width="35" height="35" img-btn="skins\my-t\;.png" cursor="hand" animate="0"/>
+	<button name="keyboard.'_T.r0" pos="525,155" width="35" height="35" img-btn="skins\my-t\'.png" cursor="hand" animate="0"/>
+	<button name="keyboard.enter_T.r0" pos="565,155" width="70" height="35" img-btn="skins\my-t\enter.png" cursor="hand" animate="0"/>
+	
+	<!--µÚÎåÅÅ°´¼ü-->
+	<button name="keyboard.lshift_T.r0" pos="50,195" width="88" height="35" img-btn="skins\my-t\shiftzuo.png" cursor="hand" animate="0"/>
+	<button name="keyboard.z_T.r0" pos="143,195" width="35" height="35" img-btn="skins\my-t\z.png" cursor="hand" animate="0"/>
+	<button name="keyboard.x_T.r0" pos="183,195" width="35" height="35" img-btn="skins\my-t\x.png" cursor="hand" animate="0"/>
+	<button name="keyboard.c_T.r0" pos="223,195" width="35" height="35" img-btn="skins\my-t\c.png" cursor="hand" animate="0"/>
+	<button name="keyboard.v_T.r0" pos="263,195" width="35" height="35" img-btn="skins\my-t\v.png" cursor="hand" animate="0"/>
+	<button name="keyboard.b_T.r0" pos="303,195" width="35" height="35" img-btn="skins\my-t\b.png" cursor="hand" animate="0"/>
+	<button name="keyboard.n_T.r0" pos="343,195" width="35" height="35" img-btn="skins\my-t\n.png" cursor="hand" animate="0"/>
+	<button name="keyboard.m_T.r0" pos="383,195" width="35" height="35" img-btn="skins\my-t\m.png" cursor="hand" animate="0"/>
+	<button name="keyboard.,_T.r0" pos="423,195" width="35" height="35" img-btn="skins\my-t\,.png" cursor="hand" animate="0"/>
+	<button name="keyboard.._T.r0" pos="463,195" width="35" height="35" img-btn="skins\my-t\..png" cursor="hand" animate="0"/>
+	<button name="keyboard.xg_T.r0" pos="503,195" width="35" height="35" img-btn="skins\my-t\xg.png" cursor="hand" animate="0"/>
+	<button name="keyboard.rshift_T.r0" pos="543,195" width="88" height="35" img-btn="skins\my-t\shiftyou.png" cursor="hand" animate="0"/>
+	
+	<!--µÚÁùÅÅ°´¼ü-->
+	<button name="keyboard.lctrl_T.r0" pos="50,235" width="52" height="35" img-btn="skins\my-t\ctrl.png" cursor="hand" animate="0"/>
+	<button name="keyboard.lwin_T.r0" pos="107,235" width="35" height="35" img-btn="skins\my-t\win.png" cursor="hand" animate="0"/>
+	<button name="keyboard.lalt_T.r0" pos="147,235" width="52" height="35" img-btn="skins\my-t\alt.png" cursor="hand" animate="0"/>
+	<button name="keyboard.space_T.r0" pos="204,235" width="227" height="35" img-btn="skins\my-t\space.png" cursor="hand" animate="0"/>
+	<button name="keyboard.ralt_T.r0" pos="436,235" width="52" height="35" img-btn="skins\my-t\alt.png" cursor="hand" animate="0"/>
+	<button name="keyboard.rwin_T.r0" pos="493,235" width="35" height="35" img-btn="skins\my-t\win.png" cursor="hand" animate="0"/>
+	<button name="keyboard.app_T.r0" pos="533,235" width="35" height="35" img-btn="skins\my-t\app.png" cursor="hand" animate="0"/>
+	<button name="keyboard.rctrl_T.r0" pos="573,235" width="52" height="35" img-btn="skins\my-t\ctrl.png" cursor="hand" animate="0"/>
+	
+	<!--ÓÒ²à¼üÅÌÇø-->
+	<button name="keyboard.prtsc_T.r0" pos="650,35" width="35" height="35" img-btn="skins\my-t\prtsc.png" cursor="hand" animate="0"/>
+	<button name="keyboard.scrlock_T.r0" pos="690,35" width="35" height="35" img-btn="skins\my-t\scrlock.png" cursor="hand" animate="0"/>
+	<button name="keyboard.pause_T.r0" pos="730,35" width="35" height="35" img-btn="skins\my-t\pause.png" cursor="hand" animate="0"/>
+	<button name="keyboard.insert_T.r0" pos="650,75" width="35" height="35" img-btn="skins\my-t\insert.png" cursor="hand" animate="0"/>
+	<button name="keyboard.home_T.r0" pos="690,75" width="35" height="35" img-btn="skins\my-t\home.png" cursor="hand" animate="0"/>
+	<button name="keyboard.pgup_T.r0" pos="730,75" width="35" height="35" img-btn="skins\my-t\pgup.png" cursor="hand" animate="0"/>
+	<button name="keyboard.delete_T.r0" pos="650,115" width="35" height="35" img-btn="skins\my-t\delete.png" cursor="hand" animate="0"/>
+	<button name="keyboard.end_T.r0" pos="690,115" width="35" height="35" img-btn="skins\my-t\end.png" cursor="hand" animate="0"/>
+	<button name="keyboard.pgdn_T.r0" pos="730,115" width="35" height="35" img-btn="skins\my-t\pgdn.png" cursor="hand" animate="0"/>
+	
+	<!--·½Ïò¼üÇø-->
+	<button name="keyboard.shang_T.r0" pos="690,195" width="35" height="35" img-btn="skins\my-t\shang.png" cursor="hand" animate="0"/>
+	<button name="keyboard.zuo_T.r0" pos="650,235" width="35" height="35" img-btn="skins\my-t\zuo.png" cursor="hand" animate="0"/>
+	<button name="keyboard.xia_T.r0" pos="690,235" width="35" height="35" img-btn="skins\my-t\xia.png" cursor="hand" animate="0"/>
+	<button name="keyboard.you_T.r0" pos="730,235" width="35" height="35" img-btn="skins\my-t\you.png" cursor="hand" animate="0"/>
+	
+	<!--Ð¡¼üÅÌÇø-->
+	<button name="keyboard.numberlock_T.r0" pos="70,287" width="35" height="35" img-btn="skins\my-t\numberlock.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp +_T.r0" pos="110,287" width="35" height="35" img-btn="skins\my-t\kp +.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp -_T.r0" pos="150,287" width="35" height="35" img-btn="skins\my-t\kp -.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp cheng_T.r0" pos="190,287" width="35" height="35" img-btn="skins\my-t\kp cheng.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp xg_T.r0" pos="230,287" width="35" height="35" img-btn="skins\my-t\kp xg.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp ._T.r0" pos="270,287" width="35" height="35" img-btn="skins\my-t\kp ..png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp enter_T.r0" pos="310,287" width="35" height="35" img-btn="skins\my-t\kp enter.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 0_T.r0" pos="350,287" width="35" height="35" img-btn="skins\my-t\kp 0.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 1_T.r0" pos="390,287" width="35" height="35" img-btn="skins\my-t\kp 1.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 2_T.r0" pos="430,287" width="35" height="35" img-btn="skins\my-t\kp 2.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 3_T.r0" pos="470,287" width="35" height="35" img-btn="skins\my-t\kp 3.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 4_T.r0" pos="510,287" width="35" height="35" img-btn="skins\my-t\kp 4.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 5_T.r0" pos="550,287" width="35" height="35" img-btn="skins\my-t\kp 5.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 6_T.r0" pos="590,287" width="35" height="35" img-btn="skins\my-t\kp 6.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 7_T.r0" pos="630,287" width="35" height="35" img-btn="skins\my-t\kp 7.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 8_T.r0" pos="670,287" width="35" height="35" img-btn="skins\my-t\kp 8.png" cursor="hand" animate="0"/>
+	<button name="keyboard.kp 9_T.r0" pos="710,287" width="35" height="35" img-btn="skins\my-t\kp 9.png" cursor="hand" animate="0"/>
+	
+	
+
+	
+	<!--¿ØÖÆ°´¼ü-->	
+	<button name="button.start.r0" pos="200,340" width="80" height="33" skin="IDB_BT_DEFAULT" cursor="hand" title="å¼€å§‹" animate="0" />
+	<button name="button.end.r0" pos="350,340" width="80" height="33" skin="IDB_BT_DEFAULT" cursor="hand" title="ç»“æŸ" animate="0" disable='1'/>
+	<button name="button.open.r0" pos="500,340" width="80" height="33" skin="IDB_BT_DEFAULT" cursor="hand" title="æ‰“å¼€ç›®å½•" animate="0"/>
+
+</div>
